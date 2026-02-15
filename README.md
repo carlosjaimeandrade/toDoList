@@ -1,4 +1,4 @@
-# 📌 Nome do Projeto 2
+# 📌 Nome do Projeto
 Exemplo: Sistema de Gerenciamento de Agendamentos
 
 ---
